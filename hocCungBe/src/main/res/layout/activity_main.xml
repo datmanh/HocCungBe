@@ -1,0 +1,93 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg" >
+
+    <ImageView
+        android:id="@+id/heart"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/heart"
+        android:contentDescription="@string/contentDescription" />
+
+    <LinearLayout
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:paddingTop="15dp" >
+
+        <ImageView
+            android:id="@+id/hoc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/hoc"
+            android:contentDescription="@string/contentDescription" />
+
+        <ImageView
+            android:id="@+id/cung"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/cung"
+            android:contentDescription="@string/contentDescription" />
+
+        <ImageView
+            android:id="@+id/be"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/be"
+            android:contentDescription="@string/contentDescription" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/btnChuCai"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chucai"
+        android:contentDescription="@string/app_name" />
+    
+    <ImageView
+        android:id="@+id/btnConVat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/convat"
+        android:contentDescription="@string/app_name" />
+    
+    <ImageView
+        android:id="@+id/btnHinhDang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/hinhdang"
+        android:contentDescription="@string/app_name" />
+    
+    <ImageView
+        android:id="@+id/btnSoDem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/sodem"
+        android:contentDescription="@string/app_name" />
+    
+    <ImageView
+        android:id="@+id/btnTraiCay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/traicay"
+        android:contentDescription="@string/app_name" />
+    
+    <ImageView
+        android:id="@+id/btnXeCo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/xeco"
+        android:contentDescription="@string/app_name" />
+
+</RelativeLayout>

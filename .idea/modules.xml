@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HocCungBe.iml" filepath="$PROJECT_DIR$/HocCungBe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_SearchGG_OpenUrl/demo_SearchGG_OpenUrl.iml" filepath="$PROJECT_DIR$/demo_SearchGG_OpenUrl/demo_SearchGG_OpenUrl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hocCungBe/hocCungBe.iml" filepath="$PROJECT_DIR$/hocCungBe/hocCungBe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>

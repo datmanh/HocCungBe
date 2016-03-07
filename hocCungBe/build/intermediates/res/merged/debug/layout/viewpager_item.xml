@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <ImageView 
+        android:id="@+id/imgLetter"
+        android:layout_width="230dip"
+        android:layout_height="230dip"
+        android:background="@drawable/box"
+        android:contentDescription="@string/app_name"
+        android:layout_marginTop="12.5dp"
+        android:layout_centerHorizontal="true"/>
+    
+    <LinearLayout 
+        android:id="@+id/linear"
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgLetter"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp">
+        
+        <ImageView 
+            android:id="@+id/imgWord_1"
+            android:layout_width="170dip"
+            android:layout_height="170dip"
+            android:contentDescription="@string/contentDescription"/>
+        
+        <ImageView 
+            android:id="@+id/imgWord_2"
+            android:layout_width="170dip"
+            android:layout_height="170dip"
+            android:layout_marginLeft="12.5dp"
+            android:contentDescription="@string/contentDescription"/>
+        
+        <ImageView 
+            android:id="@+id/imgWord_3"
+            android:layout_width="170dip"
+            android:layout_height="170dip"
+            android:layout_marginLeft="12.5dp"
+            android:contentDescription="@string/contentDescription"/>
+        
+        <ImageView 
+            android:id="@+id/imgWord_4"
+            android:layout_width="170dip"
+            android:layout_height="170dip"
+            android:layout_marginLeft="12.5dp"
+            android:contentDescription="@string/contentDescription"/>
+        
+    </LinearLayout>
+    
+</RelativeLayout>

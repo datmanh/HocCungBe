@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\demo_SearchGG_OpenUrl\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\demo_SearchGG_OpenUrl\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\demo_SearchGG_OpenUrl\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\demo_SearchGG_OpenUrl\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\demo_SearchGG_OpenUrl\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\demo_SearchGG_OpenUrl\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\demo_SearchGG_OpenUrl\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\demo_SearchGG_OpenUrl\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\demo_SearchGG_OpenUrl\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\demo_SearchGG_OpenUrl\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\demo_SearchGG_OpenUrl\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\demo_SearchGG_OpenUrl\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_fade_out.xml"
+    }
+]

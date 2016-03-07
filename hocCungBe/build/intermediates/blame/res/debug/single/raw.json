@@ -1,0 +1,1786 @@
+[
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\concua.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\concua.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cherries.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cherries.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\hollow.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\hollow.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caixeng.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caixeng.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\sandal_doiep.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\sandal_doiep.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ship.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ship.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conca_word.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conca_word.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\house.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\house.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conho.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conho.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\grasshopper_concaocao.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\grasshopper_concaocao.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a11.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a11.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ambulance.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ambulance.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\hat_caimu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\hat_caimu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ephantram.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ephantram.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\chicken_conga.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\chicken_conga.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\vit.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\vit.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conve.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conve.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\vuong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\vuong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\lacda.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\lacda.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\pear.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\pear.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\eggplant.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\eggplant.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a0.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a0.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a2_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a2_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cho.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cho.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a1_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a1_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\fridge_tulanh.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\fridge_tulanh.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e12.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e12.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xexichlo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xexichlo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ngoisao.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ngoisao.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\sutu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\sutu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\thanlan.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\thanlan.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tron.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tron.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cuu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cuu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xexuc.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xexuc.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\m_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\m_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ocsen.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ocsen.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caivi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caivi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\hexagonal.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\hexagonal.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xecau.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xecau.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\brassiere_caiyem.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\brassiere_caiyem.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\chalk_hopphan.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\chalk_hopphan.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quabi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quabi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\panda.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\panda.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\pomegranet.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\pomegranet.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\h_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\h_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caykem.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caykem.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\w_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\w_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a4.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a4.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\r_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\r_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ca.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ca.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\buffalo.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\buffalo.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quaman.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quaman.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\khucgo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\khucgo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\policecar.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\policecar.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cogiao.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cogiao.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\gautruc.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\gautruc.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\zucchini_quabi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\zucchini_quabi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tao.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tao.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cat.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cat.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cove.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cove.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\le.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\le.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\turtle_conrua.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\turtle_conrua.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xedap_word.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xedap_word.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\monqua.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\monqua.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\duahau.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\duahau.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\n_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\n_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\edautru.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\edautru.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\c_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\c_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\spherical.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\spherical.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\elip.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\elip.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ran.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ran.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\straw_urom.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\straw_urom.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\d1_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\d1_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\triangle.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\triangle.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caily.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caily.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quana.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quana.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\phantram.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\phantram.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e2.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e2.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\button_nuhoa.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\button_nuhoa.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a8.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a8.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\piano.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\piano.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caydu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caydu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\purse_caivi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\purse_caivi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tholan.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tholan.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\d_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\d_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caocao.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caocao.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\peach.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\peach.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\i_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\i_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conrong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conrong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\carot.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\carot.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\dammay.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\dammay.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\g_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\g_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xetacxi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xetacxi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\trau.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\trau.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\squirrel_consoc.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\squirrel_consoc.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\butchi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\butchi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\art_mythuat.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\art_mythuat.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\catim.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\catim.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\c_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\c_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\o1_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\o1_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ractangular.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ractangular.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\honbi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\honbi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cylindrical.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cylindrical.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\carrot.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\carrot.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\chieckhan.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\chieckhan.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quadau.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quadau.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cat_conmeo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cat_conmeo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tegiac.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tegiac.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\x_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\x_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\duck.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\duck.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e3.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e3.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\gift_monqua.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\gift_monqua.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\dao.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\dao.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\soap_xaphong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\soap_xaphong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tamgiac.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tamgiac.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\meo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\meo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\compass_p.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\compass_p.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\traitim.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\traitim.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\fox_concao.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\fox_concao.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\traibap.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\traibap.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cucumber.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cucumber.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\rose_hoahong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\rose_hoahong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\helicopter.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\helicopter.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\hopphan.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\hopphan.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\compa.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\compa.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\marble_honbi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\marble_honbi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caino.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caino.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quamo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quamo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\n_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\n_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a10.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a10.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conde_word.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conde_word.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\m_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\m_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\bike.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\bike.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\chop.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\chop.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quadat.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quadat.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\rabbit.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\rabbit.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cainoi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cainoi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xedap.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xedap.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\grapes.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\grapes.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\sparrow.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\sparrow.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e7.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e7.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e11.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e11.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\r_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\r_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\snake_conran.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\snake_conran.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\q_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\q_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xehoi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xehoi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\bicycle_xedap.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\bicycle_xedap.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\v_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\v_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\y_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\y_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\u_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\u_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\stork_conco.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\stork_conco.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tulanh.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tulanh.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a1.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a1.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\saucepan_cainoi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\saucepan_cainoi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\dautru.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\dautru.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\apple_quatao.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\apple_quatao.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\goat_conde.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\goat_conde.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\dongxu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\dongxu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\shower_hoasen.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\shower_hoasen.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\popinjay_convet.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\popinjay_convet.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\butterfly_conbuom.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\butterfly_conbuom.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\forklifttrucks.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\forklifttrucks.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\annular.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\annular.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quadua.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quadua.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\curve.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\curve.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\urom.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\urom.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\bongbong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\bongbong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quale.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quale.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\motobike.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\motobike.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\lapphuong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\lapphuong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\non.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\non.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\convoi_word.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\convoi_word.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\scissor_caikeo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\scissor_caikeo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e5.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e5.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cube.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cube.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\chimcanhcut.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\chimcanhcut.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\circle.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\circle.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\penguin.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\penguin.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\luoiliem.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\luoiliem.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\racingcar.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\racingcar.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\condo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\condo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\shovel_caixeng.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\shovel_caixeng.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conran.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conran.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\casau.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\casau.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\laco.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\laco.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\anhdao.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\anhdao.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conga_word.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conga_word.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caiyem.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caiyem.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\s_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\s_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\camel.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\camel.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\pyramidal.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\pyramidal.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\qualuu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\qualuu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\station_nhaga.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\station_nhaga.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\b_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\b_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conco.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conco.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\v_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\v_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a6.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a6.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\chimse.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\chimse.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\coin.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\coin.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\crane.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\crane.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\nuhoa.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\nuhoa.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caighe.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caighe.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ngoinha.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ngoinha.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\trurong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\trurong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\starshaped.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\starshaped.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xebus.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xebus.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\luu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\luu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\daucong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\daucong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\mouse.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\mouse.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\crescent.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\crescent.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conbo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conbo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\dauchia.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\dauchia.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\wheel_banhxe.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\wheel_banhxe.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e0.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e0.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\diver_tholan.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\diver_tholan.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tangerine_quaquyt.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tangerine_quaquyt.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\chuot.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\chuot.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\orange.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\orange.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\b_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\b_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\canal_conkenh.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\canal_conkenh.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\chuhe.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\chuhe.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\train.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\train.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\banhxe.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\banhxe.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quame.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quame.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\pencil_butchi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\pencil_butchi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\honda.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\honda.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\voi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\voi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\mythuat.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\mythuat.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\train_tauhoa.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\train_tauhoa.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a2.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a2.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ice_cream_caykem.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ice_cream_caykem.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xelua.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xelua.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\chicken.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\chicken.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\bongda.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\bongda.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caimu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caimu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quatao.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quatao.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\chunhat.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\chunhat.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conso.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conso.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\k_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\k_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\laban.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\laban.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\sparrow_chimse.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\sparrow_chimse.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\chair_caighe.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\chair_caighe.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\f_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\f_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\dgcong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\dgcong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xehoi_word.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xehoi_word.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\pedicab.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\pedicab.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\viengach.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\viengach.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\brick_viengach.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\brick_viengach.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e8.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e8.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\mite_conve.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\mite_conve.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xedua.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xedua.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\econg.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\econg.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\elephant.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\elephant.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ech.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ech.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cow_conbo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cow_conbo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xemay.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xemay.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e1.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e1.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\chim.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\chim.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quadua_word.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quadua_word.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\colour_mauve.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\colour_mauve.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\crab_concua.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\crab_concua.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\pentagon.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\pentagon.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\p_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\p_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conbuom.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conbuom.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\hoasen.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\hoasen.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\concao.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\concao.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\trousers_caiquan.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\trousers_caiquan.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cup.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cup.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\y_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\y_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xetang.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xetang.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\horse.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\horse.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cam.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cam.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\compass.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\compass.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\numbers_conso.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\numbers_conso.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\hoahong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\hoahong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\chimse_word.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\chimse_word.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\fruit_traicay.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\fruit_traicay.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\heart_traitim.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\heart_traitim.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\car.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\car.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\clown_chuhe.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\clown_chuhe.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conde.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conde.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e4.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e4.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caiquan.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caiquan.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\lucgiac.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\lucgiac.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\jumpball_quabong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\jumpball_quabong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quaquyt.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quaquyt.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\elephant_convoi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\elephant_convoi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\balo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\balo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caitu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caitu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\firetruck.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\firetruck.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conkenh.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conkenh.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\bug_consau.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\bug_consau.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tamarind_quame.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tamarind_quame.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\fighter.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\fighter.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\yta.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\yta.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xecuuhoa.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xecuuhoa.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\lon.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\lon.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\earth_traidat.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\earth_traidat.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\t_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\t_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\pear_quale.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\pear_quale.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\duthuyen.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\duthuyen.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\dudu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\dudu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\u_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\u_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\j_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\j_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tomato.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tomato.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\g_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\g_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\taxi.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\taxi.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e10.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e10.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\chump_khucgo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\chump_khucgo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\banana.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\banana.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\echia.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\echia.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\bus.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\bus.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\notebook.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\notebook.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quyensach.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quyensach.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\pomegranate_qualuu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\pomegranate_qualuu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\dragon_conrong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\dragon_conrong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a9.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a9.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\spuare.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\spuare.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conrua.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conrua.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\daunhan.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\daunhan.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\bo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\bo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\bg_song.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\bg_song.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caican.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caican.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xecuuthuong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xecuuthuong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\lion.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\lion.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e9.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e9.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\nhaga.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\nhaga.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cupboard_caitu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cupboard_caitu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cone.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cone.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\trudac.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\trudac.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\firework_phaohoa.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\firework_phaohoa.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\taudien.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\taudien.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tho.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tho.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tructhang.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tructhang.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\consau.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\consau.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\nho.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\nho.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\locomotive.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\locomotive.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\q_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\q_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a3.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a3.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\maybay.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\maybay.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ga.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ga.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\connai.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\connai.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\watermelon.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\watermelon.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\gau.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\gau.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\honuoc.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\honuoc.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\enhan.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\enhan.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conmeo_word.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conmeo_word.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\papaya_dudu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\papaya_dudu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ngugiac.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ngugiac.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\dautay.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\dautay.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\plum_quaman.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\plum_quaman.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caito.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caito.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\l_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\l_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cau.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cau.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\k_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\k_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\naichuoi.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\naichuoi.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e1_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e1_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\lacay.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\lacay.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\conech_word.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\conech_word.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\book.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\book.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ngo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ngo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tochim.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tochim.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\maybaychiendau.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\maybaychiendau.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\o_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\o_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xaphong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xaphong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\p_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\p_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ot.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ot.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\crocodile_casau.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\crocodile_casau.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\doidep.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\doidep.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\t_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\t_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\duongcam.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\duongcam.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\sutu_word.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\sutu_word.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\s_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\s_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\hopsua.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\hopsua.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\balloon_bongbay.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\balloon_bongbay.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\x_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\x_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a12.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a12.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\apple.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\apple.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quabo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quabo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\corn.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\corn.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\foliage_lacay.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\foliage_lacay.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a7.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a7.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\hinhhoc.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\hinhhoc.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\nguavan.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\nguavan.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ngua.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ngua.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caixo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caixo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\vanhkhuyen.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\vanhkhuyen.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\deer_connai.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\deer_connai.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\duahau_word.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\duahau_word.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\deer.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\deer.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\consoc.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\consoc.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\i_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\i_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\owl_concu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\owl_concu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\convet.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\convet.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tiger_conho.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tiger_conho.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\xecanhsat.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\xecanhsat.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\phaohoa.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\phaohoa.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ellipse.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ellipse.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\z_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\z_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\hollowcylindrical.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\hollowcylindrical.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\dadieu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\dadieu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tank_xetang.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tank_xetang.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\duachuot.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\duachuot.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cayda.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cayda.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\umbrella_caydu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\umbrella_caydu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\dog.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\dog.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\pineapple.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\pineapple.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\lathu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\lathu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\bido.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\bido.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\o_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\o_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\nurse_yta.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\nurse_yta.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\dgthang.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\dgthang.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\h_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\h_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\bucket_caixo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\bucket_caixo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\ho.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\ho.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\pumkin.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\pumkin.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\a5.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\a5.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\bee_conong.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\bee_conong.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\glass_caily.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\glass_caily.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\aircraft.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\aircraft.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\tauhoa_word.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\tauhoa_word.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\pepper.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\pepper.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caikeo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caikeo.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\o2_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\o2_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\concu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\concu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\d_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\d_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\cachua.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\cachua.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\pig.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\pig.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\frog.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\frog.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\bowl_caito.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\bowl_caito.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\geometry_hinhoc.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\geometry_hinhoc.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\condieu.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\condieu.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\l_eng.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\l_eng.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\line.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\line.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\fish.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\fish.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\u1_letter.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\u1_letter.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\e6.ogg",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\e6.ogg"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\de.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\de.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\huou.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\huou.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\caica.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\caica.mp3"
+    },
+    {
+        "merged": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\build\\intermediates\\res\\merged\\debug\\raw\\quyenvo.mp3",
+        "source": "E:\\ANDROID\\AndroidStudioProject\\HocCungBe\\hocCungBe\\src\\main\\res\\raw\\quyenvo.mp3"
+    }
+]

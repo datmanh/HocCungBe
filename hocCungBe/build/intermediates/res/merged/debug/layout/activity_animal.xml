@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2" >
+
+    <ImageView
+        android:id="@+id/imgTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/txtanimal"
+        android:contentDescription="@string/app_name" />
+    
+    <LinearLayout 
+        android:id="@+id/line1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="9dip"
+        android:layout_alignParentRight="true">
+        
+        <ToggleButton
+            android:id="@+id/btnViet"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_marginRight="20dip"
+            android:background="@drawable/statusvietnam"
+            android:textOff=""
+            android:textOn="" />
+        
+        <ToggleButton
+            android:id="@+id/btnEnglish"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_marginRight="20dip"
+            android:background="@drawable/statusengland"
+            android:textOff=""
+            android:textOn="" />
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/gvAnimal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/imgTitle"
+        android:layout_marginLeft="12.5dp"
+        android:layout_marginRight="12.5dp"
+        android:layout_marginBottom="12.5dp"
+        android:columnWidth="166dp"
+        android:gravity="center"
+        android:horizontalSpacing="7.5dp"
+        android:numColumns="7"
+        android:scrollbars="none"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="7.5dp" >
+    </GridView>
+
+</RelativeLayout>
